@@ -1,0 +1,5 @@
+f=open("Personal Data.txt", 'w')
+f.write('Eryk Urban\n')
+f.write('UEK\n')
+f.write('Informatyka stosowana')
+f.close()
